@@ -1,0 +1,7 @@
+ 📄 Report for Abotchi Malachi
+Catalysis: 96.0
+Thermodynamics: 84.0
+Calculus: 85.0
+Average: 88.33
+Grade: B
+Status: Pass

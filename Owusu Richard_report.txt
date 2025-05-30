@@ -1,0 +1,7 @@
+ 📄 Report for Owusu Richard
+Catalysis: 95.0
+Thermodynamics: 88.0
+Calculus: 85.0
+Average: 89.33
+Grade: B
+Status: Pass

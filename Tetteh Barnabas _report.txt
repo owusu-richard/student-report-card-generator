@@ -1,0 +1,7 @@
+ 📄 Report for Tetteh Barnabas 
+Catalysis: 87.0
+Thermodynamics: 78.0
+Calculus: 89.0
+Average: 84.67
+Grade: B
+Status: Pass

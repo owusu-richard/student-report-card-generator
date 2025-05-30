@@ -1,0 +1,19 @@
+ 📄 Report for Owusu Richard
+Catalysis: 95.0
+Thermodynamics: 88.0
+Calculus: 85.0
+Average: 89.33, Grade: B, Status: Pass
+
+ 📄 Report for Tetteh Barnabas 
+Catalysis: 87.0
+Thermodynamics: 78.0
+Calculus: 89.0
+Average: 84.67, Grade: B, Status: Pass
+
+ 📄 Report for Abotchi Malachi
+Catalysis: 96.0
+Thermodynamics: 84.0
+Calculus: 85.0
+Average: 88.33, Grade: B, Status: Pass
+
+🏅 Top Performer: Owusu Richard with an average of 89.33
