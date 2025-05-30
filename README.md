@@ -21,7 +21,7 @@ summary report.
 
 ## 📎 Related Files
 - `Student_Report_Card_Generator.ipynb`: The main notebook
-- `report_example.txt`: Sample output (if available)
+- `report_example.txt`: Sample output 
 ## Tools used
 - python (3.X)
 - jupyterlab
